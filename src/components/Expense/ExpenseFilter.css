@@ -1,0 +1,30 @@
+#dropdownbtn
+{
+ background-color: whitesmoke;
+ width:250px ;
+ height:45px;
+ font-size: 22px;
+ border-radius: 20px;
+ text-align: center;
+ 
+}
+#row
+{
+    display: flex;
+  
+}
+.leftsid
+{
+    flex:1;
+    margin-left: -50px;
+}
+.colum.rightsid
+{
+    flex: 0.2;
+    padding-top:30px ;
+}
+.option
+{
+height: 100px;
+background-color: aqua;
+}
